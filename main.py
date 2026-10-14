@@ -1,4 +1,4 @@
-p
+
 print("=== ADEL OSINT EMPIRE v1.0 ===")
 name = input("Enter target name: ")
 print(f"Searching for {name}...")
